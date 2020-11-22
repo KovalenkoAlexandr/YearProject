@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Алекс\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Алекс\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_UniqueValuesTest.-975479779.00" t="ExcludeRecursive" />
+    <e p="E:\Student\C# tests\UniqueValuesTest" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DBMySQLUtils.cs" t="Include" />
+      <e p="DBUtils.cs" t="Include" />
+      <e p="diplomaDataSet.Designer.cs" t="Include" />
+      <e p="diplomaDataSet.xsc" t="Include" />
+      <e p="diplomaDataSet.xsd" t="Include" />
+      <e p="diplomaDataSet.xss" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="UniqueValuesTest.csproj" t="IncludeRecursive" />
+      <e p="UniqueValuesTest.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
