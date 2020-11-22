@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>f57393bf-a2c0-4654-a036-4fd06ab2893b</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DBUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LanguageSets.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MyMessages.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProjectData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Users.cs" />
+  </ItemGroup>
+</Project>
