@@ -1,0 +1,11 @@
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\bin\Debug\netstandard2.0\FormRedaction.deps.json
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\bin\Debug\netstandard2.0\FormRedaction.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\bin\Debug\netstandard2.0\FormRedaction.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.AssemblyInfoInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.AssemblyInfo.cs
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\TreeNodeInMainMenu.FormRedaction.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormRedaction\obj\Debug\netstandard2.0\FormRedaction.csproj.GenerateResource.cache
