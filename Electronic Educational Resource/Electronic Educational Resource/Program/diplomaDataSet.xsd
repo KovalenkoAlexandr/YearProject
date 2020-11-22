@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="diplomaDataSet" targetNamespace="http://tempuri.org/diplomaDataSet.xsd" xmlns:mstns="http://tempuri.org/diplomaDataSet.xsd" xmlns="http://tempuri.org/diplomaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="diplomaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="diplomaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WorkingWithData.Properties.Settings.GlobalReference.Default.diplomaConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="disciplinesTableAdapter" GeneratorDataComponentClassName="disciplinesTableAdapter" Name="disciplines" UserDataComponentName="disciplinesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.disciplines" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `Name` FROM `disciplines`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="document_specificationTableAdapter" GeneratorDataComponentClassName="document_specificationTableAdapter" Name="document_specification" UserDataComponentName="document_specificationTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.document_specification" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `Name` FROM `document_specification`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="document_typeTableAdapter" GeneratorDataComponentClassName="document_typeTableAdapter" Name="document_type" UserDataComponentName="document_typeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.document_type" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `Name` FROM `document_type`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="material_tagTableAdapter" GeneratorDataComponentClassName="material_tagTableAdapter" Name="material_tag" UserDataComponentName="material_tagTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.material_tag" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `MaterialID`, `TagID` FROM `material_tag`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="materialsTableAdapter" GeneratorDataComponentClassName="materialsTableAdapter" Name="materials" UserDataComponentName="materialsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.materials" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `DisciplineName`, `Path`, `NameOfMaterial`, `MaterialTypeID` FROM `materials`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="rolesTableAdapter" GeneratorDataComponentClassName="rolesTableAdapter" Name="roles" UserDataComponentName="rolesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.roles" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `Name` FROM `roles`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="studyloadTableAdapter" GeneratorDataComponentClassName="studyloadTableAdapter" Name="studyload" UserDataComponentName="studyloadTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.studyload" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `UserID`, `DisciplineID` FROM `studyload`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tagsTableAdapter" GeneratorDataComponentClassName="tagsTableAdapter" Name="tags" UserDataComponentName="tagsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.tags" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `KeyWord` FROM `tags`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="usersTableAdapter" GeneratorDataComponentClassName="usersTableAdapter" Name="users" UserDataComponentName="usersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="diploma.users" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `ID`, `Login`, `Password`, `UserRole`, `Sirname` FROM `users`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources>
+          <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="`diploma`.`AddNewDiscipline`" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="AddNewDiscipline" MethodsParameterType="CLR" Modifier="Public" Name="AddNewDiscipline" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="AddNewDiscipline">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>`diploma`.`AddNewDiscipline`</CommandText>
+                <Parameters>
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="_name" Precision="255" ProviderType="VarChar" Scale="255" Size="250" SourceColumnNullMapping="false" SourceVersion="Current" />
+                </Parameters>
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+          <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="`diploma`.`AddNewUser`" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="AddNewUser" MethodsParameterType="CLR" Modifier="Public" Name="AddNewUser" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="AddNewUser">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>`diploma`.`AddNewUser`</CommandText>
+                <Parameters>
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="_login" Precision="255" ProviderType="VarChar" Scale="255" Size="45" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="_password" Precision="255" ProviderType="VarChar" Scale="255" Size="45" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="_role" Precision="10" ProviderType="Int32" Scale="0" Size="2147483647" SourceColumnNullMapping="false" SourceVersion="Current" />
+                  <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="_sirname" Precision="255" ProviderType="VarChar" Scale="255" Size="250" SourceColumnNullMapping="false" SourceVersion="Current" />
+                </Parameters>
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+          <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="`diploma`.`ShowMaterials`" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="ShowMaterials" MethodsParameterType="CLR" Modifier="Public" Name="ShowMaterials" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy2" UserSourceName="ShowMaterials">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>`diploma`.`ShowMaterials`</CommandText>
+                <Parameters />
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+          <DbSource ConnectionRef="diplomaConnectionString (Settings)" DbObjectName="`diploma`.`TeacherDisciplineMatch`" DbObjectType="StoredProcedure" GenerateShortCommands="true" GeneratorSourceName="TeacherDisciplineMatch" MethodsParameterType="CLR" Modifier="Public" Name="TeacherDisciplineMatch" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy3" UserSourceName="TeacherDisciplineMatch">
+            <SelectCommand>
+              <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                <CommandText>`diploma`.`TeacherDisciplineMatch`</CommandText>
+                <Parameters />
+              </DbCommand>
+            </SelectCommand>
+          </DbSource>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="diplomaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="diplomaDataSet" msprop:Generator_UserDSName="diplomaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="disciplines" msprop:Generator_TableClassName="disciplinesDataTable" msprop:Generator_TableVarName="tabledisciplines" msprop:Generator_RowChangedName="disciplinesRowChanged" msprop:Generator_TablePropName="disciplines" msprop:Generator_RowDeletingName="disciplinesRowDeleting" msprop:Generator_RowChangingName="disciplinesRowChanging" msprop:Generator_RowEvHandlerName="disciplinesRowChangeEventHandler" msprop:Generator_RowDeletedName="disciplinesRowDeleted" msprop:Generator_RowClassName="disciplinesRow" msprop:Generator_UserTableName="disciplines" msprop:Generator_RowEvArgName="disciplinesRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="document_specification" msprop:Generator_TableClassName="document_specificationDataTable" msprop:Generator_TableVarName="tabledocument_specification" msprop:Generator_RowChangedName="document_specificationRowChanged" msprop:Generator_TablePropName="document_specification" msprop:Generator_RowDeletingName="document_specificationRowDeleting" msprop:Generator_RowChangingName="document_specificationRowChanging" msprop:Generator_RowEvHandlerName="document_specificationRowChangeEventHandler" msprop:Generator_RowDeletedName="document_specificationRowDeleted" msprop:Generator_RowClassName="document_specificationRow" msprop:Generator_UserTableName="document_specification" msprop:Generator_RowEvArgName="document_specificationRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="document_type" msprop:Generator_TableClassName="document_typeDataTable" msprop:Generator_TableVarName="tabledocument_type" msprop:Generator_RowChangedName="document_typeRowChanged" msprop:Generator_TablePropName="document_type" msprop:Generator_RowDeletingName="document_typeRowDeleting" msprop:Generator_RowChangingName="document_typeRowChanging" msprop:Generator_RowEvHandlerName="document_typeRowChangeEventHandler" msprop:Generator_RowDeletedName="document_typeRowDeleted" msprop:Generator_RowClassName="document_typeRow" msprop:Generator_UserTableName="document_type" msprop:Generator_RowEvArgName="document_typeRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="material_tag" msprop:Generator_TableClassName="material_tagDataTable" msprop:Generator_TableVarName="tablematerial_tag" msprop:Generator_RowChangedName="material_tagRowChanged" msprop:Generator_TablePropName="material_tag" msprop:Generator_RowDeletingName="material_tagRowDeleting" msprop:Generator_RowChangingName="material_tagRowChanging" msprop:Generator_RowEvHandlerName="material_tagRowChangeEventHandler" msprop:Generator_RowDeletedName="material_tagRowDeleted" msprop:Generator_RowClassName="material_tagRow" msprop:Generator_UserTableName="material_tag" msprop:Generator_RowEvArgName="material_tagRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="materials" msprop:Generator_TableClassName="materialsDataTable" msprop:Generator_TableVarName="tablematerials" msprop:Generator_RowChangedName="materialsRowChanged" msprop:Generator_TablePropName="materials" msprop:Generator_RowDeletingName="materialsRowDeleting" msprop:Generator_RowChangingName="materialsRowChanging" msprop:Generator_RowEvHandlerName="materialsRowChangeEventHandler" msprop:Generator_RowDeletedName="materialsRowDeleted" msprop:Generator_RowClassName="materialsRow" msprop:Generator_UserTableName="materials" msprop:Generator_RowEvArgName="materialsRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="roles" msprop:Generator_TableClassName="rolesDataTable" msprop:Generator_TableVarName="tableroles" msprop:Generator_RowChangedName="rolesRowChanged" msprop:Generator_TablePropName="roles" msprop:Generator_RowDeletingName="rolesRowDeleting" msprop:Generator_RowChangingName="rolesRowChanging" msprop:Generator_RowEvHandlerName="rolesRowChangeEventHandler" msprop:Generator_RowDeletedName="rolesRowDeleted" msprop:Generator_RowClassName="rolesRow" msprop:Generator_UserTableName="roles" msprop:Generator_RowEvArgName="rolesRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="studyload" msprop:Generator_TableClassName="studyloadDataTable" msprop:Generator_TableVarName="tablestudyload" msprop:Generator_RowChangedName="studyloadRowChanged" msprop:Generator_TablePropName="studyload" msprop:Generator_RowDeletingName="studyloadRowDeleting" msprop:Generator_RowChangingName="studyloadRowChanging" msprop:Generator_RowEvHandlerName="studyloadRowChangeEventHandler" msprop:Generator_RowDeletedName="studyloadRowDeleted" msprop:Generator_RowClassName="studyloadRow" msprop:Generator_UserTableName="studyload" msprop:Generator_RowEvArgName="studyloadRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tags" msprop:Generator_TableClassName="tagsDataTable" msprop:Generator_TableVarName="tabletags" msprop:Generator_RowChangedName="tagsRowChanged" msprop:Generator_TablePropName="tags" msprop:Generator_RowDeletingName="tagsRowDeleting" msprop:Generator_RowChangingName="tagsRowChanging" msprop:Generator_RowEvHandlerName="tagsRowChangeEventHandler" msprop:Generator_RowDeletedName="tagsRowDeleted" msprop:Generator_RowClassName="tagsRow" msprop:Generator_UserTableName="tags" msprop:Generator_RowEvArgName="tagsRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="users" msprop:Generator_TableClassName="usersDataTable" msprop:Generator_TableVarName="tableusers" msprop:Generator_RowChangedName="usersRowChanged" msprop:Generator_TablePropName="users" msprop:Generator_RowDeletingName="usersRowDeleting" msprop:Generator_RowChangingName="usersRowChanging" msprop:Generator_RowEvHandlerName="usersRowChangeEventHandler" msprop:Generator_RowDeletedName="usersRowDeleted" msprop:Generator_RowClassName="usersRow" msprop:Generator_UserTableName="users" msprop:Generator_RowEvArgName="usersRowChangeEvent">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
