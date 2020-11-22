@@ -1,0 +1,15 @@
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\TreeNodeInMainMenu.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\TreeNodeInMainMenu.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\TreeNodeInMainMenu.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\MySql.Data.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\Google.Protobuf.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Release\MySql.Data.xml
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.Form1.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.FormRedaction.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.Properties.Resources.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.csproj.CopyComplete
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Release\TreeNodeInMainMenu.pdb
