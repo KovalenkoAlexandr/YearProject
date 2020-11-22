@@ -1,0 +1,80 @@
+E:\Student\C# tests\Диплом программа\bin\Debug\UniqueValuesTest.exe.config
+E:\Student\C# tests\Диплом программа\bin\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\Диплом программа\bin\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\Диплом программа\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\Диплом программа\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+E:\Student\C# tests\Диплом программа\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+E:\Student\C# tests\Диплом программа\bin\Debug\mysql.data.dll
+E:\Student\C# tests\Диплом программа\obj\Debug\Диплом.csprojAssemblyReference.cache
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.DataView.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.MainForm.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.AddData.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.Tags.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+E:\Student\C# tests\Диплом программа\obj\Debug\Диплом.csproj.GenerateResource.cache
+E:\Student\C# tests\Диплом программа\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+E:\Student\C# tests\Диплом программа\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\Диплом программа\obj\Debug\Диплом.csproj.CopyComplete
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\Диплом программа\obj\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\UniqueValuesTest.exe.config
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\mysql.data.dll
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\Google.Protobuf.dll
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\BouncyCastle.Crypto.dll
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\bin\Debug\mysql.data.xml
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.DataView.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.MainForm.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.AddData.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.Tags.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\Диплом.csproj.GenerateResource.cache
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\Диплом.csproj.CopyComplete
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.DataDeletion.resources
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\Диплом.csprojAssemblyReference.cache
+E:\Student\C# tests\Диплом\Диплом\Диплом программа\obj\Debug\UniqueValuesTest.StudyloadRebuild.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\Диплом.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.DataDeletion.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.DataView.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.MainForm.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.AddData.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.StudyloadRebuild.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.Tags.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\Диплом.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\UniqueValuesTest.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\FormSeek.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\mysql.data.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\TreeNodeInMainMenu.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\Google.Protobuf.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\FormSeek.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\FormSeek.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\TreeNodeInMainMenu.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\TreeNodeInMainMenu.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\mysql.data.xml
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\obj\Debug\Диплом.csproj.CopyComplete
