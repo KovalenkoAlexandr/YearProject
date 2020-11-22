@@ -1,0 +1,59 @@
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe.config
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.pdb
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Form1.resources
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Properties.Resources.resources
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CopyComplete
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.exe
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.pdb
+C:\Users\AlGord\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.FormRedaction.resources
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe.config
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.pdb
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.xml
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Form1.resources
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.FormRedaction.resources
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Properties.Resources.resources
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CopyComplete
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.exe
+C:\Users\sasha\Desktop\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.pdb
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe.config
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.pdb
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.dll
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\Google.Protobuf.dll
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\BouncyCastle.Crypto.dll
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.xml
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csprojAssemblyReference.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Form1.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.FormRedaction.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Properties.Resources.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.GenerateResource.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CoreCompileInputs.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CopyComplete
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.exe
+E:\Программы\Telegram Desktop\DownLoads\Diplom\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Form1.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.FormRedaction.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.Properties.Resources.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\TreeNodeInMainMenu.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\Google.Protobuf.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\bin\Debug\MySql.Data.xml
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\TreeNodeInMainMenu\TreeNodeInMainMenu\obj\Debug\TreeNodeInMainMenu.csproj.CopyComplete
