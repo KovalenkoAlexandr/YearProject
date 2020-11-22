@@ -1,0 +1,190 @@
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\FormSeek\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+F:\FormSeek (last)\FormSeek\bin\Debug\FormSeek.exe.config
+F:\FormSeek (last)\FormSeek\bin\Debug\FormSeek.exe
+F:\FormSeek (last)\FormSeek\bin\Debug\FormSeek.pdb
+F:\FormSeek (last)\FormSeek\bin\Debug\MySql.Data.dll
+F:\FormSeek (last)\FormSeek\bin\Debug\MySql.Data.xml
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.Form1.resources
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.exe
+F:\FormSeek (last)\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek (last)\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 05.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 09.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\AlGord\Desktop\Дипломна робота\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+E:\Программы\Telegram Desktop\DownLoads\Diplom\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\Алекс\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+E:\Программы\Telegram Desktop\DownLoads\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+C:\Users\sasha\Desktop\Електронний_освітній_ресурсlast\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe.config
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.exe
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\FormSeek.pdb
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.dll
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\bin\Debug\MySql.Data.xml
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csprojAssemblyReference.cache
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Form1.resources
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationAboutProgram.resources
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.InformationInTable.resources
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.Properties.Resources.resources
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.GenerateResource.cache
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CoreCompileInputs.cache
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.csproj.CopyComplete
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.exe
+F:\Student\NMU\Группа\ООП 121-19ск-1\Коваленко, Гордиенко\Електронний освітній ресурс\Електронний освітній ресурс\FormSeek 15.06.2019\FormSeek\obj\Debug\FormSeek.pdb
