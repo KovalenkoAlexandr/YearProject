@@ -1,0 +1,65 @@
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.config
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\mysql.data.dll
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.GenerateResource.cache
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CoreCompileInputs.cache
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CopyComplete
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.exe
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.pdb
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.config
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.pdb
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\mysql.data.dll
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\mysql.data.xml
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.Form1.resources
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CopyComplete
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.exe
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.pdb
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.config
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.pdb
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.CodeAnalysisLog.xml
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\UniqueValuesTest.exe.lastcodeanalysissucceeded
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\mysql.data.dll
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\mysql.data.xml
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csprojAssemblyReference.cache
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.Form1.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.Properties.Resources.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.GenerateResource.cache
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.csproj.CopyComplete
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.exe
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.pdb
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.resources
+C:\Users\Alex\Desktop\UniqueValuesTest\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+C:\Users\Alex\Desktop\UniqueValuesTest\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+C:\Users\Алекс\Desktop\UniqueValuesTest\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+C:\Users\Алекс\Desktop\UniqueValuesTest\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.resources
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.UserAuthorization.resources
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.AddData.uk-UA.resources
+E:\Student\C# tests\UniqueValuesTest\bin\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\uk-UA\UniqueValuesTest.resources.dll
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.DataView.resources
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.Tags.resources
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.csprojAssemblyReference.cache
+E:\Student\C# tests\UniqueValuesTest\obj\Debug\UniqueValuesTest.MainForm.resources
