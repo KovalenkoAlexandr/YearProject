@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="e:\программы\visualstudio\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа\bin\Debug\UniqueValuesTest.exe">
+   <Modules>
+    <Module Name="uniquevaluestest.exe">
+     <Namespaces>
+      <Namespace Name="UniqueValuesTest">
+       <Types>
+        <Type Name="DataView" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#SelectUsers(System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа" File="DataView.cs" Line="75">Строка запроса, переданная 'MySqlDataAdapter.MySqlDataAdapter(string, MySqlConnection)' в 'DataView.SelectUsers(string)', может содержать следующие переменные 'text'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="diplomaDataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+disciplinesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.disciplinesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+document_specificationDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.document_specificationDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+document_typeDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.document_typeDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+material_tagDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.material_tagDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+materialsDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.materialsDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+rolesDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.rolesDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+studyloadDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.studyloadDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+tagsDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.tagsDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="diplomaDataSet+usersDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу 'diplomaDataSet.usersDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="MainForm" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetForegroundWindow()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Так как метод является методом P/Invoke, 'MainForm.GetForegroundWindow()' должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">Измените уровень доступа P/Invoke 'MainForm.GetForegroundWindow()', чтобы он не был виден извне своей сборки.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#LoadKeyboardLayout(System.String,System.UInt32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Так как метод является методом P/Invoke, 'MainForm.LoadKeyboardLayout(string, uint)' должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message Id="return" TypeName="PInvokeDeclarationsShouldBePortable" Category="Microsoft.Portability" CheckId="CA1901" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+             <Issue Name="Return" Certainty="95" Level="Error">Как объявлено в вашем коде, тип возвращаемого значения для P/Invoke 'MainForm.LoadKeyboardLayout(string, uint)' будет иметь размер 4 байт для 64-разрядных платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть 8 байт для 64-разрядных платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо 'int'.</Issue>
+            </Message>
+            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="NonBreaking">
+             <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">Чтобы уменьшить угрозу безопасности, следует маршалировать параметр 'pwszKLID' как Юникод, установив значение CharSet.Unicode для DllImport.CharSet, либо явно маршалировав параметр как UnmanagedType.LPWStr. Если необходимо упаковать и передать эту строку как ANSI или зависящую от системы, укажите MarshalAs явно и установите BestFitMapping=false; для обеспечения дополнительной безопасности также установите ThrowOnUnmappableChar=true.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PostMessage(System.IntPtr,System.Int32,System.Int32,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Так как метод является методом P/Invoke, 'MainForm.PostMessage(IntPtr, int, int, int)' должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message Id="2" TypeName="PInvokeDeclarationsShouldBePortable" Category="Microsoft.Portability" CheckId="CA1901" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error">Как объявлено в вашем коде, параметр 'wParam' для P/Invoke 'MainForm.PostMessage(IntPtr, int, int, int)' будет иметь размер 4 байт для 64-разрядных платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть 8 байт для 64-разрядных платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо 'int'.</Issue>
+            </Message>
+            <Message Id="3" TypeName="PInvokeDeclarationsShouldBePortable" Category="Microsoft.Portability" CheckId="CA1901" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error">Как объявлено в вашем коде, параметр 'lParam' для P/Invoke 'MainForm.PostMessage(IntPtr, int, int, int)' будет иметь размер 4 байт для 64-разрядных платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть 8 байт для 64-разрядных платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо 'int'.</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">Измените уровень доступа P/Invoke 'MainForm.PostMessage(IntPtr, int, int, int)', чтобы он не был виден извне своей сборки.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#UnloadKeyboardLayout(System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Так как метод является методом P/Invoke, 'MainForm.UnloadKeyboardLayout(int)' должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message Id="0" TypeName="PInvokeDeclarationsShouldBePortable" Category="Microsoft.Portability" CheckId="CA1901" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Name="Parameter" Certainty="95" Level="Error">Как объявлено в вашем коде, параметр 'HKL' для P/Invoke 'MainForm.UnloadKeyboardLayout(int)' будет иметь размер 4 байт для 64-разрядных платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть 8 байт для 64-разрядных платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо 'int'.</Issue>
+            </Message>
+            <Message TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="CriticalError">Измените уровень доступа P/Invoke 'MainForm.UnloadKeyboardLayout(int)', чтобы он не был виден извне своей сборки.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="StudyloadRebuild" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#button1_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Не ликвидировать объекты несколько раз" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2019-06-17 16:32:11Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Алекс\Desktop\Електронний освітній ресурс\Диплом программа" File="StudyloadRebuild.cs" Line="126">Объект "'this'" можно удалять более одного раза в методе 'StudyloadRebuild.button1_Click(object, EventArgs)'. Чтобы избежать исключения System.ObjectDisposedException, следует вызывать метод "Dispose" для объекта только один раз.: Lines: 126</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Правильно реализуйте ISerializable</Name>
+   <Description>Если тип допускает присваивание к ISerializable, он должен реализовать GetObjectData. Для незапечатанных типов производные типы должны иметь возможность вызывать и переопределять метод GetObjectData.</Description>
+   <Resolution Name="Default">Добавьте реализацию GetObjectData к типу {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>Переместите методы P/Invoke в класс NativeMethods</Name>
+   <Description>В этом типе содержатся члены с атрибутом DllImport. Члены с атрибутом DllImport должны содержаться в классах с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Description>
+   <Resolution Name="Default">Так как метод является методом P/Invoke, {0} должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="PInvokeDeclarationsShouldBePortable" Category="Microsoft.Portability" CheckId="CA1901">
+   <Name>Объявления P/Invoke должны быть переносимыми</Name>
+   <Description>.</Description>
+   <Resolution Name="Parameter">Как объявлено в вашем коде, параметр {0} для P/Invoke {1} будет иметь размер {2} байт для {3} платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть {4} байт для {3} платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо {5}.</Resolution>
+   <Resolution Name="Return">Как объявлено в вашем коде, тип возвращаемого значения для P/Invoke {0} будет иметь размер {1} байт для {2} платформ. Это неправильно, поскольку текущее объявление в машинном коде для данного API указывает, что его размер должен быть {3} байт для {2} платформ. Обратитесь к документации MSDN Platform SDK и выясните, какой тип данных следует использовать вместо {4}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182284(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="portabilityrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="PInvokesShouldNotBeVisible" Category="Microsoft.Interoperability" CheckId="CA1401">
+   <Name>Методы P/Invoke не должны быть видимыми</Name>
+   <Description>Уровень взаимодействия не должен быть открытым. Не следует применять атрибут DllImport к открыто доступным членам (открытым или защищенным).</Description>
+   <Resolution Name="Default">Измените уровень доступа P/Invoke {0}, чтобы он не был виден извне своей сборки.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182209.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="50">CriticalError</MessageLevel>
+   <File Name="interoperabilityrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101">
+   <Name>Укажите тип маршалинга для строковых аргументов P/Invoke</Name>
+   <Description>При маршалинге строк в формате ANSI (или как Auto в Win9x) некоторые знаки могут быть изменены. Если включено сопоставление путем автоматического подбора, строки, которые отображаются в формате Юникод по-другому, будут маршалированы в идентичные ANSI-строки, что может привести к неверным решениям по обеспечению безопасности. Отключение сопоставления путем автоматического подбора уменьшит возможность этой угрозы, так как все знаки, не имеющие эквивалента, будут заменены знаком "?". Также следует отметить, что CharSet.Ansi является настройкой по умолчанию для маршалинга всех строк. Маршалинг в формате Юникод следует указывать явно, либо как значение CharSet в DllImport или StructLayout, либо как атрибут MarshalAs с типом Unicode (или зависящим от системы) UnmanagedType.</Description>
+   <Resolution Name="ParameterImplicitAnsi">Чтобы уменьшить угрозу безопасности, следует маршалировать параметр {0} как Юникод, установив значение CharSet.Unicode для DllImport.CharSet, либо явно маршалировав параметр как UnmanagedType.LPWStr. Если необходимо упаковать и передать эту строку как ANSI или зависящую от системы, укажите MarshalAs явно и установите BestFitMapping=false; для обеспечения дополнительной безопасности также установите ThrowOnUnmappableChar=true.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182319.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="Не ликвидировать объекты несколько раз" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>Не ликвидировать объекты несколько раз</Name>
+   <Description>Правильно реализованный метод Dispose может вызываться неоднократно без создания исключения. Однако такой гарантии нет, и чтобы предотвратить создание System.ObjectDisposedException, не следует вызывать метод Dispose для объекта более одного раза.</Description>
+   <Resolution Name="Default">Объект "{0}" можно удалять более одного раза в методе {1}. Чтобы избежать исключения System.ObjectDisposedException, следует вызывать метод "Dispose" для объекта только один раз.: Lines: 126</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Проверка запросов SQL на уязвимости безопасности</Name>
+   <Description>Командная строка SQL, создаваемая на основе введенных пользователем данных, уязвима к атакам типа "инъекция SQL". Microsoft SQL Server и другие серверы баз данных поддерживают хранимые процедуры и параметризованные SQL-запросы, что снижает риск атак путем внедрения.</Description>
+   <Resolution Name="WithNonLiterals">Строка запроса, переданная {0} в {1}, может содержать следующие переменные {2}. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Категория</String>
+  <String Key="Certainty">Достоверность</String>
+  <String Key="CollapseAll">Свернуть все</String>
+  <String Key="CheckId">ИД проверки</String>
+  <String Key="Error">Ошибка</String>
+  <String Key="Errors">ошибки</String>
+  <String Key="ExpandAll">Развернуть все</String>
+  <String Key="Help">Справка</String>
+  <String Key="Line">Строка</String>
+  <String Key="Messages">сообщения</String>
+  <String Key="LocationNotStoredInPdb">[расположение не сохранено в PDB]</String>
+  <String Key="Project">Проект</String>
+  <String Key="Resolution">Разрешение</String>
+  <String Key="Rule">Правило</String>
+  <String Key="RuleFile">Файл правил</String>
+  <String Key="RuleDescription">Описание правила</String>
+  <String Key="Source">Источник</String>
+  <String Key="Status">Состояние</String>
+  <String Key="Target">Цель</String>
+  <String Key="Warning">Предупреждение</String>
+  <String Key="Warnings">предупреждения</String>
+  <String Key="ReportTitle">Отчет по анализу кода</String>
+ </Localized>
+</FxCopReport>
